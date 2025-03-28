@@ -1,0 +1,70 @@
+############### Validation ###############
+Digite_recognition_3_Datasets_2024-09-21 15-22-52.pth
+Validation Metrics over 314 batches:
+Average Accurecy: 0.8299
+Average Recall: 0.8299
+Average Precision: 0.9040
+Average F1: 0.8500
+Average Loss: 0.4479
+
+
+############### Validation ###############
+Digite_recognition_3_Datasets_2024-09-21 19-04-12.pth
+Validation Metrics over 314 batches:
+Average Accurecy: 0.8340
+Average Recall: 0.8340
+Average Precision: 0.9167
+Average F1: 0.8574
+Average Loss: 0.4384
+
+
+############### Validation ###############
+Digite_recognition_3_Datasets_2024-09-22 16-18-22.pth
+Validation Metrics over 314 batches:
+Average Accurecy: 0.8327
+Average Recall: 0.8327
+Average Precision: 0.9148
+Average F1: 0.8570
+Average Loss: 0.4377
+
+
+############### Validation ###############
+Digite_recognition_3_Datasets_2024-09-22 17-32-35.pth
+Validation Metrics over 314 batches:
+Average Accurecy: 0.8382
+Average Recall: 0.8382
+Average Precision: 0.9168
+Average F1: 0.8601
+Average Loss: 0.4317
+
+
+############### Validation ###############
+Digite_recognition_3_Datasets_2024-09-22 17-35-48.pth
+Validation Metrics over 314 batches:
+Average Accurecy: 0.8323
+Average Recall: 0.8323
+Average Precision: 0.9097
+Average F1: 0.8537
+Average Loss: 0.4483
+
+
+############### Validation ###############
+Digite_recognition_3_Datasets_2024-09-22 17-42-12.pth
+Validation Metrics over 314 batches:
+Average Accurecy: 0.8820
+Average Recall: 0.8820
+Average Precision: 0.8858
+Average F1: 0.8829
+Average Loss: 0.3371
+
+
+############### Validation ###############
+Digite_recognition_3_Datasets_2024-09-27 15-23-11.pth
+Validation Metrics over 40067 validation instances and after 4 epoch of training:
+Average Accurecy: 0.8364
+Average Recall: 0.8364
+Average Precision: 0.9240
+Average F1: 0.8630
+Average Loss: 0.4256
+
+
