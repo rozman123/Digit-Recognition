@@ -1,3 +1,4 @@
-Data\\idx
-Data\\jpg
-Data\\csv
+Data/idx
+Data/jpg
+Data/csv
+__pycache__
