@@ -15,7 +15,7 @@ model=My_Models.CNN_model(device)
 
 loss_function=torch.nn.CrossEntropyLoss()
 optimalizer=torch.optim.Adam(model.parameters(),lr=alpha)
-torch.optim.lr_scheduler#####################################
+torch.optim.lr_scheduler
 
 
 for e in range(epoch):
